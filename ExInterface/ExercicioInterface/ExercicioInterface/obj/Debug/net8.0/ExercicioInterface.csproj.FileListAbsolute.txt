@@ -1,0 +1,14 @@
+E:\Repositório\ExInterface\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.exe
+E:\Repositório\ExInterface\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.deps.json
+E:\Repositório\ExInterface\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.runtimeconfig.json
+E:\Repositório\ExInterface\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.dll
+E:\Repositório\ExInterface\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.pdb
+E:\Repositório\ExInterface\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositório\ExInterface\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.AssemblyInfoInputs.cache
+E:\Repositório\ExInterface\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.AssemblyInfo.cs
+E:\Repositório\ExInterface\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.csproj.CoreCompileInputs.cache
+E:\Repositório\ExInterface\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.dll
+E:\Repositório\ExInterface\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\refint\ExercicioInterface.dll
+E:\Repositório\ExInterface\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.pdb
+E:\Repositório\ExInterface\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.genruntimeconfig.cache
+E:\Repositório\ExInterface\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ref\ExercicioInterface.dll

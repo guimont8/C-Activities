@@ -1,0 +1,14 @@
+E:\Repositório\ExError\ExercicioError\ExercicioError\bin\Debug\net8.0\ExercicioError.exe
+E:\Repositório\ExError\ExercicioError\ExercicioError\bin\Debug\net8.0\ExercicioError.deps.json
+E:\Repositório\ExError\ExercicioError\ExercicioError\bin\Debug\net8.0\ExercicioError.runtimeconfig.json
+E:\Repositório\ExError\ExercicioError\ExercicioError\bin\Debug\net8.0\ExercicioError.dll
+E:\Repositório\ExError\ExercicioError\ExercicioError\bin\Debug\net8.0\ExercicioError.pdb
+E:\Repositório\ExError\ExercicioError\ExercicioError\obj\Debug\net8.0\ExercicioError.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositório\ExError\ExercicioError\ExercicioError\obj\Debug\net8.0\ExercicioError.AssemblyInfoInputs.cache
+E:\Repositório\ExError\ExercicioError\ExercicioError\obj\Debug\net8.0\ExercicioError.AssemblyInfo.cs
+E:\Repositório\ExError\ExercicioError\ExercicioError\obj\Debug\net8.0\ExercicioError.csproj.CoreCompileInputs.cache
+E:\Repositório\ExError\ExercicioError\ExercicioError\obj\Debug\net8.0\ExercicioError.dll
+E:\Repositório\ExError\ExercicioError\ExercicioError\obj\Debug\net8.0\refint\ExercicioError.dll
+E:\Repositório\ExError\ExercicioError\ExercicioError\obj\Debug\net8.0\ExercicioError.pdb
+E:\Repositório\ExError\ExercicioError\ExercicioError\obj\Debug\net8.0\ExercicioError.genruntimeconfig.cache
+E:\Repositório\ExError\ExercicioError\ExercicioError\obj\Debug\net8.0\ref\ExercicioError.dll
