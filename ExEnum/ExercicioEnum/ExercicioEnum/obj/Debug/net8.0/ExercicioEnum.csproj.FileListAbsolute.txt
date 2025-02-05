@@ -1,0 +1,14 @@
+E:\Repositório\ExercicioEnum\ExercicioEnum\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositório\ExercicioEnum\ExercicioEnum\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.AssemblyInfoInputs.cache
+E:\Repositório\ExercicioEnum\ExercicioEnum\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.AssemblyInfo.cs
+E:\Repositório\ExercicioEnum\ExercicioEnum\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.csproj.CoreCompileInputs.cache
+E:\Repositório\ExercicioEnum\ExercicioEnum\ExercicioEnum\bin\Debug\net8.0\ExercicioEnum.exe
+E:\Repositório\ExercicioEnum\ExercicioEnum\ExercicioEnum\bin\Debug\net8.0\ExercicioEnum.deps.json
+E:\Repositório\ExercicioEnum\ExercicioEnum\ExercicioEnum\bin\Debug\net8.0\ExercicioEnum.runtimeconfig.json
+E:\Repositório\ExercicioEnum\ExercicioEnum\ExercicioEnum\bin\Debug\net8.0\ExercicioEnum.dll
+E:\Repositório\ExercicioEnum\ExercicioEnum\ExercicioEnum\bin\Debug\net8.0\ExercicioEnum.pdb
+E:\Repositório\ExercicioEnum\ExercicioEnum\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.dll
+E:\Repositório\ExercicioEnum\ExercicioEnum\ExercicioEnum\obj\Debug\net8.0\refint\ExercicioEnum.dll
+E:\Repositório\ExercicioEnum\ExercicioEnum\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.pdb
+E:\Repositório\ExercicioEnum\ExercicioEnum\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.genruntimeconfig.cache
+E:\Repositório\ExercicioEnum\ExercicioEnum\ExercicioEnum\obj\Debug\net8.0\ref\ExercicioEnum.dll

@@ -1,0 +1,14 @@
+E:\Repositório\ExDictionary\ExercicioDictionary\ExercicioDictionary\bin\Debug\net8.0\ExercicioDictionary.exe
+E:\Repositório\ExDictionary\ExercicioDictionary\ExercicioDictionary\bin\Debug\net8.0\ExercicioDictionary.deps.json
+E:\Repositório\ExDictionary\ExercicioDictionary\ExercicioDictionary\bin\Debug\net8.0\ExercicioDictionary.runtimeconfig.json
+E:\Repositório\ExDictionary\ExercicioDictionary\ExercicioDictionary\bin\Debug\net8.0\ExercicioDictionary.dll
+E:\Repositório\ExDictionary\ExercicioDictionary\ExercicioDictionary\bin\Debug\net8.0\ExercicioDictionary.pdb
+E:\Repositório\ExDictionary\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositório\ExDictionary\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.AssemblyInfoInputs.cache
+E:\Repositório\ExDictionary\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.AssemblyInfo.cs
+E:\Repositório\ExDictionary\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.csproj.CoreCompileInputs.cache
+E:\Repositório\ExDictionary\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.dll
+E:\Repositório\ExDictionary\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\refint\ExercicioDictionary.dll
+E:\Repositório\ExDictionary\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.pdb
+E:\Repositório\ExDictionary\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.genruntimeconfig.cache
+E:\Repositório\ExDictionary\ExercicioDictionary\ExercicioDictionary\obj\Debug\net8.0\ref\ExercicioDictionary.dll

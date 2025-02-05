@@ -1,0 +1,14 @@
+E:\Repositório\ExConjuntos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net8.0\ExercicioConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositório\ExConjuntos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net8.0\ExercicioConjuntos.AssemblyInfoInputs.cache
+E:\Repositório\ExConjuntos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net8.0\ExercicioConjuntos.AssemblyInfo.cs
+E:\Repositório\ExConjuntos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net8.0\ExercicioConjuntos.csproj.CoreCompileInputs.cache
+E:\Repositório\ExConjuntos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net8.0\ExercicioConjuntos.exe
+E:\Repositório\ExConjuntos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net8.0\ExercicioConjuntos.deps.json
+E:\Repositório\ExConjuntos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net8.0\ExercicioConjuntos.runtimeconfig.json
+E:\Repositório\ExConjuntos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net8.0\ExercicioConjuntos.dll
+E:\Repositório\ExConjuntos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net8.0\ExercicioConjuntos.pdb
+E:\Repositório\ExConjuntos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net8.0\ExercicioConjuntos.dll
+E:\Repositório\ExConjuntos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net8.0\refint\ExercicioConjuntos.dll
+E:\Repositório\ExConjuntos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net8.0\ExercicioConjuntos.pdb
+E:\Repositório\ExConjuntos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net8.0\ExercicioConjuntos.genruntimeconfig.cache
+E:\Repositório\ExConjuntos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net8.0\ref\ExercicioConjuntos.dll
