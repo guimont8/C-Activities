@@ -1,0 +1,14 @@
+E:\Repositório\ExercicioListas\ExercicioListas\bin\Debug\net8.0\ExercicioListas.exe
+E:\Repositório\ExercicioListas\ExercicioListas\bin\Debug\net8.0\ExercicioListas.deps.json
+E:\Repositório\ExercicioListas\ExercicioListas\bin\Debug\net8.0\ExercicioListas.runtimeconfig.json
+E:\Repositório\ExercicioListas\ExercicioListas\bin\Debug\net8.0\ExercicioListas.dll
+E:\Repositório\ExercicioListas\ExercicioListas\bin\Debug\net8.0\ExercicioListas.pdb
+E:\Repositório\ExercicioListas\ExercicioListas\obj\Debug\net8.0\ExercicioListas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositório\ExercicioListas\ExercicioListas\obj\Debug\net8.0\ExercicioListas.AssemblyInfoInputs.cache
+E:\Repositório\ExercicioListas\ExercicioListas\obj\Debug\net8.0\ExercicioListas.AssemblyInfo.cs
+E:\Repositório\ExercicioListas\ExercicioListas\obj\Debug\net8.0\ExercicioListas.csproj.CoreCompileInputs.cache
+E:\Repositório\ExercicioListas\ExercicioListas\obj\Debug\net8.0\ExercicioListas.dll
+E:\Repositório\ExercicioListas\ExercicioListas\obj\Debug\net8.0\refint\ExercicioListas.dll
+E:\Repositório\ExercicioListas\ExercicioListas\obj\Debug\net8.0\ExercicioListas.pdb
+E:\Repositório\ExercicioListas\ExercicioListas\obj\Debug\net8.0\ExercicioListas.genruntimeconfig.cache
+E:\Repositório\ExercicioListas\ExercicioListas\obj\Debug\net8.0\ref\ExercicioListas.dll
