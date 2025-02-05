@@ -1,0 +1,14 @@
+E:\Repositório\ExercicioAbstratos\ExercicioAbstratos\ExercicioAbstratos\bin\Debug\net8.0\ExercicioAbstratos.exe
+E:\Repositório\ExercicioAbstratos\ExercicioAbstratos\ExercicioAbstratos\bin\Debug\net8.0\ExercicioAbstratos.deps.json
+E:\Repositório\ExercicioAbstratos\ExercicioAbstratos\ExercicioAbstratos\bin\Debug\net8.0\ExercicioAbstratos.runtimeconfig.json
+E:\Repositório\ExercicioAbstratos\ExercicioAbstratos\ExercicioAbstratos\bin\Debug\net8.0\ExercicioAbstratos.dll
+E:\Repositório\ExercicioAbstratos\ExercicioAbstratos\ExercicioAbstratos\bin\Debug\net8.0\ExercicioAbstratos.pdb
+E:\Repositório\ExercicioAbstratos\ExercicioAbstratos\ExercicioAbstratos\obj\Debug\net8.0\ExercicioAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositório\ExercicioAbstratos\ExercicioAbstratos\ExercicioAbstratos\obj\Debug\net8.0\ExercicioAbstratos.AssemblyInfoInputs.cache
+E:\Repositório\ExercicioAbstratos\ExercicioAbstratos\ExercicioAbstratos\obj\Debug\net8.0\ExercicioAbstratos.AssemblyInfo.cs
+E:\Repositório\ExercicioAbstratos\ExercicioAbstratos\ExercicioAbstratos\obj\Debug\net8.0\ExercicioAbstratos.csproj.CoreCompileInputs.cache
+E:\Repositório\ExercicioAbstratos\ExercicioAbstratos\ExercicioAbstratos\obj\Debug\net8.0\ExercicioAbstratos.dll
+E:\Repositório\ExercicioAbstratos\ExercicioAbstratos\ExercicioAbstratos\obj\Debug\net8.0\refint\ExercicioAbstratos.dll
+E:\Repositório\ExercicioAbstratos\ExercicioAbstratos\ExercicioAbstratos\obj\Debug\net8.0\ExercicioAbstratos.pdb
+E:\Repositório\ExercicioAbstratos\ExercicioAbstratos\ExercicioAbstratos\obj\Debug\net8.0\ExercicioAbstratos.genruntimeconfig.cache
+E:\Repositório\ExercicioAbstratos\ExercicioAbstratos\ExercicioAbstratos\obj\Debug\net8.0\ref\ExercicioAbstratos.dll
